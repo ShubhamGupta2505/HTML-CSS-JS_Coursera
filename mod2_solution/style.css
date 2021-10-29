@@ -23,15 +23,7 @@ p {
     padding: 25px;
   }
 
-.item-title{
-    position: absolute;
-    top:0;
-    right: 0px;
-    background: green; 
-    padding: 6px 90px;
-    border-left: 2px solid #000;
-    border-bottom: 2px solid #000;
-  }
+
 #title-one {
     background-color: #D59898;
   } 
